@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: sklearn_transforms
+Version: 1.0
+Summary: This is a sample python package for encapsulating custom tranforms from scikit-learn into Watson Machine Learning
+Home-page: https://github.com/renatokano/sklearn_transforms/
+Author: Renato Kano
+Author-email: renatokano16@gmail.com
+License: IBM
+Description: UNKNOWN
+Platform: UNKNOWN
